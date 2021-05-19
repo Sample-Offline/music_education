@@ -58,4 +58,4 @@
 - Creative vs. automated processing
 -
 
-###### _Taken from the free Berkley School of Music Handbooks_
+###### _Paraphrased from the free Berkley School of Music Handbooks_
