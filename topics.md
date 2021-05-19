@@ -19,6 +19,8 @@
   - LFO
 - Modulation
   - Types of modulation
+- Bit depth
+- Sample rate
 
 ## 2. Music Production
 
