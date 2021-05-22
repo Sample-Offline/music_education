@@ -61,3 +61,17 @@
 -
 
 ###### _Paraphrased from the free Berkley School of Music Handbooks_
+
+
+
+### Other Assorted Topics
+
+- dBV, dbU, dBFS
+- SPL, Sound Pressure Level
+- AL, analog level
+- [https://en.wikipedia.org/wiki/Audio_system_measurements](https://en.wikipedia.org/wiki/Audio_system_measurements)
+- [https://en.wikipedia.org/wiki/Headroom_(audio_signal_processing)](https://en.wikipedia.org/wiki/Headroom_(audio_signal_processing))
+- [https://en.wikipedia.org/wiki/Equal-loudness_contour](https://en.wikipedia.org/wiki/Equal-loudness_contour)
+- [Interference beats and Tartini tones](https://www.animations.physics.unsw.edu.au/jw/beats.htm)
+- [Equal-Loudness Contours](http://www.lindos.co.uk/cgi-bin/FlexiData.cgi?SOURCE=Articles&VIEW=full&id=17)
+- [Understanding Noise Weighting Curves](http://www.lindos.co.uk/cgi-bin/download.cgi/Articles/1/file/art2upload.html)
