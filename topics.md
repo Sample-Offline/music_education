@@ -21,6 +21,7 @@
   - Types of modulation
 - Bit depth
 - Sample rate
+- How the Baxandall's basic circuit works
 
 ## 2. Music Production
 
