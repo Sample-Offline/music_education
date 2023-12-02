@@ -1,5 +1,7 @@
 # DSP effects and the why/how?
 
+# Effects
+
 ## Gate
 
 Gate lets signal of a certain dB through. (shout "let me in!" too softly and the guard doesnt open the gate. Yell super loud, and they do.). Dude in Act V intro stopping Baal was "the Gate".
@@ -42,4 +44,30 @@ I kinda treat the delay as a signal repeater. All the coloring is delayed and se
 Convo verb: Concreate, real space. (Think like, a big ol' venue)
 Regular verb: Abstract space reflections. (Think like, a satin water wave in a dream or something)
 
-##
+## Echo
+
+Echo is fucking cool. The source signal is concentrated, so the waves amplify each other (in phase). The environment is a conical shape or whatever that prevents phase cancellation, unlike verb. 
+It's kinda like if someone shouted from a moving car "Hey your significant other is HHOOOOOTtttttt...." and the car's gone so we cant do anything about it (like shout back). If we all were in the same room, we could fight it out potentially (aka phase cancellation). 
+
+I thought it's cool cones/bevels cause waves to reflect at diff angles. 
+
+## Saturation
+
+Adds harmonics.
+
+## Overdrive
+
+Overdrive's add harmonics depending on the underlying DSP algo. The clipping adds harmonics. This is (I think) akin to a brickwall EQ (around each clipping harm) where there's distortion at unity. _I THINK_.
+Hard clip makes tried-and-true square waves from sine. 
+Soft clip adds lerp between to soften the slope of the square clip. This modulates the tonality differently than a hard clip. 
+
+
+# Other Funky things
+
+## Sibilance and pops
+
+Sibilance usually 2-10k ish. Pops sub 500. They're kinda opposites. Ish. 
+De-essers are targeting the tones that make those SSSsss sounds. Still unsure which algo is used for that. 
+
+
+
