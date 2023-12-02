@@ -1,6 +1,7 @@
 # Cheatsheet
 
-
+## Theory stuff
+[See here](./theory_cheatsheet.md)
 
 ## 1. Calculations
 
