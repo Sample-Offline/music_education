@@ -62,6 +62,14 @@ Hard clip makes tried-and-true square waves from sine.
 Soft clip adds lerp between to soften the slope of the square clip. This modulates the tonality differently than a hard clip. 
 
 
+## Mid/Side vs L/R Stereo
+
+Mid/Side is the **SUM** of the ch. (Mid) and the diff of the ch. (Side)
+L/R Stereo is mono of **ALL** **signals** sent to that channel. 
+
+Modulating the DIFF is the key to taming shit in the high end/resonant hz.
+
+
 # Other Funky things
 
 ## Sibilance and pops
