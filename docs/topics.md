@@ -1,6 +1,6 @@
-# Music things to Learn
+# Music things to Learn (TODO)
 
-## 1. Electronic Music Prod.
+## 1. Electronic Music Prod
 
 - Sound Design
   - Types of waves
@@ -59,11 +59,8 @@
 - Instrumental Comping
 - Time-based vs. parallel processing
 - Creative vs. automated processing
--
 
-###### _Paraphrased from the free Berkley School of Music Handbooks_
-
-
+> _Paraphrased from the free Berkley School of Music Handbooks_
 
 ### Other Assorted Topics
 
@@ -77,5 +74,5 @@
 - [Equal-Loudness Contours](http://www.lindos.co.uk/cgi-bin/FlexiData.cgi?SOURCE=Articles&VIEW=full&id=17)
 - [Understanding Noise Weighting Curves](http://www.lindos.co.uk/cgi-bin/download.cgi/Articles/1/file/art2upload.html)
 - [Acoustics — Normal equal-loudness-level contours](https://www.iso.org/standard/34222.html)
--  Neutral vs. non-neutral operation (e.g. normalization is **not** neutral)
+- Neutral vs. non-neutral operation (e.g. normalization is **not** neutral)
 - DAC
