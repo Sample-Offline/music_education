@@ -63,8 +63,9 @@ A corpus of information _(hopefully)_ encompassing everything required to create
 
 ## Ableton
 
-1. [Ableton](./docs/ableton_factoids.md)
+1. [Ableton Factoids](./docs/ableton_factoids.md)
 1. [Custom Ableton Metronome](./docs/ableton/custom_ableton_metronomes.md)
+1. [Custom Ableton Theming](./docs/ableton/theming/ableton-theming.md)
 
 ## That (Other)
 
