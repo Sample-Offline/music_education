@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ableton MajorVersion="5" MinorVersion="11.0_432" SchemaChangeCount="3" Creator="Ableton Live 11.0.1d1" Revision="">
+	<Theme>
+		<AbletonColor />
+		<Alert />
+		<ArrangementRulerMarkings />
+		<ArrangerGridTiles />
+		<AutomationColor />
+		<AutomationDisabled />
+		<AutomationGrid />
+		<AutomationLaneClipBodyLightness Value="0.479999999999999982" />
+		<AutomationLaneClipBodySaturation Value="0.660000000000000031" />
+		<AutomationLaneHeaderLightness Value="0.5" />
+		<AutomationLaneHeaderNameLightness Value="0.100000000000000006" />
+		<AutomationLaneHeaderNameSaturation Value="0.900000000000000022" />
+		<AutomationLaneHeaderSaturation Value="0.900000000000000022" />
+		<AutomationMouseOver />
+		<AutomationTransformToolFrame />
+		<AutomationTransformToolFrameActive />
+		<AutomationTransformToolHandle />
+		<AutomationTransformToolHandleActive />
+		<BackgroundClip />
+		<BackgroundClipFrame />
+		<BipolarPotiTriangle />
+		<BipolReset />
+		<BrowserBar />
+		<BrowserBarOverlayHintTextColor />
+		<BrowserDisabledItem />
+		<BrowserSampleWaveform />
+		<CheckControlNotCheckedBlendFactor Value="0.5" />
+		<ChosenAlert />
+		<ChosenAlternative />
+		<ChosenDefault />
+		<ChosenPlay />
+		<ChosenPreListen />
+		<ChosenRecord />
+		<Clip1 />
+		<Clip10 />
+		<Clip11 />
+		<Clip12 />
+		<Clip13 />
+		<Clip14 />
+		<Clip15 />
+		<Clip16 />
+		<Clip2 />
+		<Clip3 />
+		<Clip4 />
+		<Clip5 />
+		<Clip6 />
+		<Clip7 />
+		<Clip8 />
+		<Clip9 />
+		<ClipBlendFactor Value="0.875" />
+		<ClipBorder />
+		<ClipBorderAlpha Value="96" />
+		<ClipContrastColorAdjustment Value="20" />
+		<ClipSlotButton />
+		<ClipText />
+		<ControlBackground />
+		<ControlContrastFrame />
+		<ControlContrastTransport />
+		<ControlDisabled />
+		<ControlFillHandle />
+		<ControlForeground />
+		<ControlOffDisabledForeground />
+		<ControlOffForeground />
+		<ControlOnAlternativeForeground />
+		<ControlOnDisabledForeground />
+		<ControlOnForeground />
+		<ControlSelectionFrame />
+		<ControlTextBack />
+		<DeactivatedPoti />
+		<DeactivatedPotiNeedle />
+		<DefaultBlendFactor Value="0.8000000119" />
+		<Desktop />
+		<DetailGridTiles />
+		<DetailViewBackground />
+		<DetailViewRulerMarkings />
+		<DimmedWaveformColor />
+		<DisabledContextMenuIconAlpha Value="85" />
+		<DisplayBackground />
+		<DrumRackScroller1 />
+		<DrumRackScroller2 />
+		<ExpressionLaneHeaderHighlight />
+		<FilledDrumRackPad />
+		<FreezeColor />
+		<GainReductionLineColor />
+		<GridGuideline />
+		<GridLabel />
+		<GridLineBase />
+		<IconBlendFactor Value="0.6499999762" />
+		<ImplicitArm />
+		<InaudibleTakeLightness Value="0.429999999999999993" />
+		<InaudibleTakeNameLightness Value="0.800000000000000044" />
+		<InaudibleTakeNameSaturation Value="0.800000000000000044" />
+		<InaudibleTakeSaturation Value="0.330000000000000016" />
+		<InputCurveColor />
+		<InputCurveOutlineColor />
+		<KeyZoneBackground />
+		<KeyZoneCrossfadeRamp />
+		<LearnKey />
+		<LearnMacro />
+		<LearnMidi />
+		<LinkedTrackHover />
+		<LoopColor />
+		<MeterBackground />
+		<MidiNoteMaxVelocity />
+		<MinVelocityNoteBlendFactor Value="0.200000003" />
+		<MixSurfaceAreaBlendFactor Value="0.349999994" />
+		<Modulation />
+		<ModulationDisabled />
+		<ModulationMouseOver />
+		<MutedAuditionClip />
+		<NonEditableAutomationAlpha Value="127" />
+		<NoteBorderStandbyBlendFactor Value="0.5" />
+		<NoteDisabledSelectedBlendFactor Value="0.5" />
+		<NoteProbability />
+		<OffGridGuideline />
+		<OffGridLoopColor />
+		<Operator1 />
+		<Operator2 />
+		<Operator3 />
+		<Operator4 />
+		<OutputCurveColor />
+		<OutputCurveOutlineColor />
+		<Poti />
+		<PotiNeedle />
+		<PreferencesTab />
+		<Progress />
+		<ProgressText />
+		<RangeDefault />
+		<RangeDisabled />
+		<RangeDisabledOff />
+		<RangeEditField />
+		<RangeEditField2 />
+		<RetroDisplayBackground />
+		<RetroDisplayBackgroundLine />
+		<RetroDisplayBlendFactor Value="0.8999999762" />
+		<RetroDisplayForeground />
+		<RetroDisplayForeground2 />
+		<RetroDisplayForegroundDisabled />
+		<RetroDisplayGreen />
+		<RetroDisplayHandle1 />
+		<RetroDisplayHandle2 />
+		<RetroDisplayRed />
+		<RetroDisplayScaleText />
+		<SceneContrast />
+		<ScrollBarAlpha Value="128" />
+		<ScrollBarBackgroundAlpha Value="63" />
+		<ScrollbarInnerHandle />
+		<ScrollbarInnerTrack />
+		<ScrollbarLCDHandle />
+		<ScrollbarLCDTrack />
+		<ScrollBarOnHoverAlpha Value="255" />
+		<ScrollbarOuterHandle />
+		<ScrollbarOuterTrack />
+		<SearchIndication />
+		<SearchIndicationStandby />
+		<SelectionBackground />
+		<SelectionBackgroundContrast />
+		<SelectionForeground />
+		<SelectionFrame />
+		<SelectorZoneBackground />
+		<SelectorZoneCrossfadeRamp />
+		<ShadowDark />
+		<ShadowLight />
+		<SpectrumAlternativeColor />
+		<SpectrumDefaultColor />
+		<SpectrumGridLines />
+		<StandbySelectionBackground />
+		<StandbySelectionForeground />
+		<StripedBackgroundShadeFactor Value="0.8999999762" />
+		<SurfaceArea />
+		<SurfaceAreaFocus />
+		<SurfaceAreaForeground />
+		<SurfaceBackground />
+		<SurfaceHighlight />
+		<TakeLaneHeaderLightness Value="0.479999999999999982" />
+		<TakeLaneHeaderNameLightness Value="0.849999999999999978" />
+		<TakeLaneHeaderNameSaturation Value="0.900000000000000022" />
+		<TakeLaneHeaderSaturation Value="0.900000000000000022" />
+		<TakeLaneTrackHighlighted />
+		<TakeLaneTrackNotHighlighted />
+		<TextDisabled />
+		<TextFrameSegmentBlendFactor Value="0.6000000238" />
+		<ThresholdLineColor />
+		<TransportOffBackground />
+		<TransportOffDisabledForeground />
+		<TransportProgress />
+		<TransportSelectionBackground />
+		<TreeColumnHeadBackground />
+		<TreeColumnHeadControl />
+		<TreeColumnHeadFocus />
+		<TreeColumnHeadForeground />
+		<TreeColumnHeadSelected />
+		<TreeRowCategoryBackground />
+		<TreeRowCategoryForeground />
+		<VelocityColor />
+		<VelocitySelectedOrHovered />
+		<VelocityZoneBackground />
+		<VelocityZoneCrossfadeRamp />
+		<ViewCheckControlDisabledOff />
+		<ViewCheckControlDisabledOn />
+		<ViewCheckControlEnabledOff />
+		<ViewCheckControlEnabledOn />
+		<WarperTimeBarMarkerBackground />
+		<WarperTimeBarRulerBackground />
+		<WaveformColor />
+		<ZoomPanHandle />
+		<StandardVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum />
+			<AboveZeroDecibel />
+			<ZeroDecibel />
+			<Minimum />
+		</StandardVuMeter>
+		<OverloadVuMeter>
+			<OnlyMinimumToMaximum Value="true" />
+			<Maximum />
+			<AboveZeroDecibel />
+			<ZeroDecibel />
+			<Minimum />
+		</OverloadVuMeter>
+		<DisabledVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum />
+			<AboveZeroDecibel />
+			<ZeroDecibel />
+			<Minimum />
+		</DisabledVuMeter>
+		<HeadphonesVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum />
+			<AboveZeroDecibel />
+			<ZeroDecibel />
+			<Minimum />
+		</HeadphonesVuMeter>
+		<SendsOnlyVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum />
+			<AboveZeroDecibel />
+			<ZeroDecibel />
+			<Minimum />
+		</SendsOnlyVuMeter>
+		<BipolarGainReductionVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum />
+			<AboveZeroDecibel />
+			<ZeroDecibel />
+			<Minimum />
+		</BipolarGainReductionVuMeter>
+		<OrangeVuMeter>
+			<OnlyMinimumToMaximum Value="true" />
+			<Maximum />
+			<AboveZeroDecibel />
+			<ZeroDecibel />
+			<Minimum />
+		</OrangeVuMeter>
+	</Theme>
+</Ableton>
